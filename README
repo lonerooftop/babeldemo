@@ -1,0 +1,9 @@
+to install:
+
+npm install
+npm install -g babel webpack webpack-dev-server regenerator
+
+./run
+
+
+Read the story on https://gist.github.com/reinhrst/4777889855300ff3c6bf
